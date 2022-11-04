@@ -1,0 +1,14 @@
+SCATTER PLOT
+if the variable on x axis and y axis are correlated it will have a straight line or if it dont have straight line then it is not correlated.
+more it is tighten more the coorelation
+IT is Used when:
+Dependent variable have multiple values for each value of independent variable.
+to determine two variable are related.
+
+distribution Plot
+Here we are using distplot which is mixture of histogram, kdeplot and rugplot 
+rugplot is like a histogram but in 1d
+skewness show if it normally distributed aur it is skewed or tilted. positive or negative shows if it is rightway skewed or leftway skewed.
+kurtosis: if the tail is shorter and flatter than the normal distribution than it is called positive kurtosis.
+negative is vice versa and at zero it behaves has a normal distribution
+
